@@ -1,14 +1,12 @@
 {
-  "name": "react-native-fbsdk-next",
-  "version": "11.2.1",
+  "name": "react-native-fbsdk-next-sdk16",
+  "version": "11.2.3",
   "description": "Facebook SDK support for React Native apps.",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
   "types": "lib/typescript/src/index.d.ts",
   "sideEffects": false,
-  "author": {
-    "name": "Marcos Bérgamo"
-  },
+  "author": "Marcos Bérgamo",
   "contributors": [
     {
       "name": "Zhuowen Deng"
@@ -32,10 +30,7 @@
       "name": "Mike Hardy"
     }
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/thebergamo/react-native-fbsdk-next.git"
-  },
+  "repository": "https://github.com/tim7on/react-native-fbsdk-next.git",
   "homepage": "https://github.com/thebergamo/react-native-fbsdk-next/",
   "keywords": [
     "react",
