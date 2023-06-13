@@ -1,6 +1,6 @@
 {
   "name": "react-native-fbsdk-next-sdk16",
-  "version": "11.2.4",
+  "version": "11.2.5",
   "description": "Facebook SDK support for React Native apps.",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
@@ -71,7 +71,7 @@
     "src",
     "LICENSE.txt",
     "README.md",
-    "react-native-fbsdk-next.podspec",
+    "react-native-fbsdk-next-sdk16.podspec",
     "jest",
     "tsconfig.json",
     "app.plugin.js",
